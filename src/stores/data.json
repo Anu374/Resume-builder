@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Jane Doe",
+    "name": "Anu Sah",
     "label": "Frontend Developer",
-    "image": "https://www.linkpicture.com/q/generated_photos_5e68893b6d3b380006f22f8b.jpg",
-    "email": "janedoe@email.com",
-    "phone": "+91 9876543210",
-    "url": "www.github.com/sadanandpai/",
+    "image": "https://www.linkpicture.com/q/WhatsApp-Image-2022-03-13-at-8.37.22-AM.jpg",
+    "email": "code.anukrsah@email.com",
+    "phone": "+91 6261146343",
+    "url": "www.github.com/Anu374/",
     "summary": "I am a web developer having expertise in frontend development and exposure to back- end development. I design and develop web applications using the latest technologies to deliver the product with quality code.",
     "location": {
       "address": "",
@@ -20,23 +20,23 @@
     "profiles": [
       {
         "network": "linkedin",
-        "username": "sadanandpai",
-        "url": "https://www.linkedin.com/in/sadanandpai/"
+        "username": "anu-kumar-sah-5197b4146",
+        "url": "https://www.linkedin.com/in/anu-kumar-sah-5197b4146/"
       },
       {
         "network": "github",
-        "username": "sadanandpai",
-        "url": "https://github.com/sadanandpai/"
+        "username": "Anu374",
+        "url": "https://github.com/anu374/"
       },
       {
         "network": "hackerrank",
         "username": "paicube",
-        "url": "https://www.hackerrank.com/paicube/"
+        "url": "https://www.hackerrank.com/Anu374/"
       },
       {
         "network": "leetcode",
         "username": "paicube",
-        "url": "https://leetcode.com/paicube/"
+        "url": "https://leetcode.com/Anu374/"
       }
     ]
   },
@@ -114,7 +114,7 @@
 
   "education": [
     {
-      "institution": "MIT, University",
+      "institution": "RGPV, University",
       "url": "https://www.mit.edu/",
       "studyType": "MS",
       "area": "Cloud technology",
@@ -125,11 +125,11 @@
     },
     {
       "institution": "NMAMIT, Nitte",
-      "url": "https://www.mit.edu/",
-      "studyType": "B.Tech (VTU)",
-      "area": "Computer Science",
-      "startDate": "2010",
-      "endDate": "2014",
+      "url": "https://www.rgpv.ac.in/",
+      "studyType": "B.Tech (RGTU)",
+      "area": "Electrical and Electronics",
+      "startDate": "2020",
+      "endDate": "2016",
       "score": "8.3 CGPA",
       "courses": []
     }
