@@ -8,7 +8,7 @@
 
 
 
-👉 &nbsp;&nbsp;[Single Page Resume Builder](https://resume-builder.vercel.app/)&nbsp;&nbsp;👈
+👉 &nbsp;&nbsp;[Resume Builder](https://resume-builder.vercel.app/)&nbsp;&nbsp;👈
 
 </div>
 
