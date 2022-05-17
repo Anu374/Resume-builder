@@ -115,16 +115,16 @@
   "education": [
     {
       "institution": "RGPV, University",
-      "url": "https://www.mit.edu/",
+      "url": "https://www.rgpv.ac.in/",
       "studyType": "MS",
       "area": "Cloud technology",
-      "startDate": "2014",
-      "endDate": "2016",
+      "startDate": "2022",
+      "endDate": "2020",
       "score": "68%",
       "courses": []
     },
     {
-      "institution": "NMAMIT, Nitte",
+      "institution": "RGPV, Bhopal",
       "url": "https://www.rgpv.ac.in/",
       "studyType": "B.Tech (RGTU)",
       "area": "Electrical and Electronics",
