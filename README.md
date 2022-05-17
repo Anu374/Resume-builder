@@ -3,12 +3,12 @@
 
 ### Free and open source, fully customizable professional single page resume builder
 
-<a href="https://resume-builfder.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://resume-builfder.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
+<a href="https://resume-builder.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://resume-builder.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
 
 
 
-👉 &nbsp;&nbsp;[Single Page Resume Builder](https://resume-bbuilder.vercel.app/)&nbsp;&nbsp;👈
+👉 &nbsp;&nbsp;[Single Page Resume Builder](https://resume-builder.vercel.app/)&nbsp;&nbsp;👈
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ### For developers
 
-- `git clone https://github.com/Anu374/Resume-builfder.git`
+- `git clone https://github.com/Anu374/Resume-builder.git`
 - `yarn install`
 - `yarn dev`
 
@@ -43,4 +43,4 @@
 Feel free to use the source to create your resume.<br/>
 Basic knowledge of HTML5, CSS and React is sufficient if you to customize the resume for your requirements.
 
-![](https://visitor-badge.glitch.me/badge?page_id=single-page-resume-builder)
+![](https://visitor-badge.glitch.me/badge?page_id=resume-builder)
