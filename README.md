@@ -3,13 +3,12 @@
 
 ### Free and open source, fully customizable professional single page resume builder
 
-<a href="https://e-resume.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://e-resume.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
+<a href="https://resume-builfder.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://resume-builfder.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
 
-[![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
 
-👉 &nbsp;&nbsp;[Single Page Resume Builder](https://e-resume.vercel.app/)&nbsp;&nbsp;👈
+
+👉 &nbsp;&nbsp;[Single Page Resume Builder](https://resume-bbuilder.vercel.app/)&nbsp;&nbsp;👈
 
 </div>
 
@@ -27,7 +26,7 @@
 
 ### For developers
 
-- `git clone https://github.com/sadanandpai/single-page-resume-builder.git`
+- `git clone https://github.com/Anu374/Resume-builfder.git`
 - `yarn install`
 - `yarn dev`
 
@@ -35,7 +34,6 @@
 
 - [React](https://reactjs.org/) with hooks
 - [Styled components](https://styled-components.com/) + [Antd](https://ant.design/docs/react/introduce) (css and component libraries)
-- [Zustand](https://github.com/pmndrs/zustand) (hooks based state management library)
 - [Next.js](https://nextjs.org/) (Bundler)
 
 <div align="center">More features coming soon</div>
