@@ -3,12 +3,12 @@
 
 ### Free and open source, fully customizable professional single page resume builder
 
-<a href="https://resume-builder.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://resume-builder.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
+<a href="https://resume-builder-coral.vercel.app/"><img src="public/images/professional.png" alt="cover" height="415px" width="294px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://resume-builder-coral.vercel.app/"><img src="public/images/legacy.png" alt="cover" height="415px" width="294px"/></a>
 
 
 
-👉 &nbsp;&nbsp;[Resume Builder](https://resume-builder.vercel.app/)&nbsp;&nbsp;👈
+👉 &nbsp;&nbsp;[Resume Builder](https://resume-builder-coral.vercel.app/)&nbsp;&nbsp;👈
 
 </div>
 
