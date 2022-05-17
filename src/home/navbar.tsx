@@ -38,15 +38,15 @@ const NavBar: NextPage = () => {
     <Nav>
       <Link href="/">
         <a>
-          <Image src="/logo.png" alt="logo" height="50px" width="50px" />
+          <Image src="/logo1 (2).png" alt="logo" height="50px" width="50px" />
         </a>
       </Link>
       <RightItemsContainer>
         <a className="nav-item show-web">Templates</a>
         <a className="nav-item show-web">Recommendations</a>
-        <a className="nav-item show-web">About</a>
+        <a href="https://anu-protfolio.vercel.app/" className="nav-item show-web">About</a>
         <a
-          href="https://github.com/sadanandpai/resume-builder"
+          href="https://github.com/anu374/resume-builder"
           className="icon"
           target="_new"
           title="Source code"
